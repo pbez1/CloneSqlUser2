@@ -1,0 +1,6 @@
+{
+    "SqlCmdParms"              : [
+        "AbortOnError=True",
+        "TrustServerCertificate=True"
+        ]
+}
