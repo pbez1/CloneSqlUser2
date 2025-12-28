@@ -1,6 +1,5 @@
 ﻿# $databases = Get-PsDatabaseList -ServerInstance 'sdc-sqldw2' #$SourceServer
 # Test-PsDbReadiness -ServerInstance 'sdc-sqldw2' -Databases $databases -Silent
-# Import-Module "\\gruyere\is\DBA\DBAs\DBA Powershell Scripts\Modules\CloneSQLUser\CloneSQLUser.psm1" -force
 # $SourceServer = 'sdc-dw, sdc-dwqa, spf-sv-bidevdb1, sdc-sqldw2, spf-sv-bidbextr, spf-ssis1, spf-ssisqa1, sdc-dwetldv'
 
 

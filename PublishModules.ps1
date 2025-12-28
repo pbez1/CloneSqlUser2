@@ -20,7 +20,7 @@ $publishModuleSplat = @{
 Publish-Module @publishModuleSplat
 
 
-# $RepoShare = "\\gruyere\is\DBA\DBAs\DBA Powershell Scripts\PSRepo"
+# $RepoShare = "\\pha.pacificsource.com\files\Dept\IT_ERPD\Public\FileSharing\PowerShell\Repositories\PsRepo"
 
 # $repo = @{
     #     Name               = 'PSRepo'
